@@ -1,0 +1,11 @@
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\bin\Debug\HomeAutomatin.exe.config
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\bin\Debug\HomeAutomatin.exe
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\bin\Debug\HomeAutomatin.pdb
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\obj\Debug\HomeAutomatin.csproj.AssemblyReference.cache
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\obj\Debug\HomeAutomatin.csproj.SuggestedBindingRedirects.cache
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\obj\Debug\HomeAutomatin.Form1.resources
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\obj\Debug\HomeAutomatin.Properties.Resources.resources
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\obj\Debug\HomeAutomatin.csproj.GenerateResource.cache
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\obj\Debug\HomeAutomatin.csproj.CoreCompileInputs.cache
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\obj\Debug\HomeAutomatin.exe
+C:\Users\sazza\OneDrive\Documents\C#\HomeAutomatin\HomeAutomatin\obj\Debug\HomeAutomatin.pdb
